@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\",
+  "WorkspaceRootPath": "C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|c:\\users\\mxm\\desktop\\inventory-and-sales\\lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|solutionrelative:lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3904B718-F883-4B39-87B7-707A494BCAE3}|Lnventory-and-Sales\\Lnventory-and-Sales.csproj|solutionrelative:lnventory-and-sales\\inventory and sales management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Inventory and sales management.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
+              "DocumentMoniker": "C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
               "RelativeDocumentMoniker": "Lnventory-and-Sales\\Inventory and sales management.cs",
-              "ToolTip": "C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs [Design]",
+              "ToolTip": "C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs [Design]",
               "RelativeToolTip": "Lnventory-and-Sales\\Inventory and sales management.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T19:47:12.393Z",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Inventory and sales management.cs",
-              "DocumentMoniker": "C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
+              "DocumentMoniker": "C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
               "RelativeDocumentMoniker": "Lnventory-and-Sales\\Inventory and sales management.cs",
-              "ToolTip": "C:\\Users\\MXM\\Desktop\\Lnventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
+              "ToolTip": "C:\\Users\\MXM\\Desktop\\Inventory-and-Sales\\Lnventory-and-Sales\\Inventory and sales management.cs",
               "RelativeToolTip": "Lnventory-and-Sales\\Inventory and sales management.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
